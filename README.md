@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: b02lamaj@uco.es
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: trabajo en hongos pero no me gustan los hongos
+- no tengo ni idea de lo que estoy haciendo
