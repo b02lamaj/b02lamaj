@@ -1,5 +1,5 @@
 ---
-title: "01_primer.Rmd"
+title: "index.Rmd"
 author: "Javier"
 date: "2026-11-18"
 output: html_document
